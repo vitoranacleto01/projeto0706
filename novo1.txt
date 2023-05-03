@@ -1,0 +1,20 @@
+Algoritmo Soma
+
+Declaração
+Nome: texto;
+Numero1: decimal;
+Numero2: decimal;
+resultado: decimal;
+
+INICIO
+escreva ("Digite seu nome");
+leia (Nome);
+escreva ("Digite um numero");
+leia (Numero1);
+escreva ("Digite outro numero");
+leia (Numero2);
+Resultado<-Numero1+Numero2;
+escreva ("Resultado é");
+escreva (Resultado);
+FIM
+escreva (O resultado é);
